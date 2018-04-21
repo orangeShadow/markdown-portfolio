@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Anton Alexeev](https://avatars0.githubusercontent.com/u/1313470)
