@@ -12,4 +12,6 @@
 
 - **nodejs** I have some experience broadcasting message from Laravel through socket.io library to client. I studied node js courses on site Udemy, but i didn't write any production  application.
 
-May be here I need write about my theory skills but I am like a young student read and forget, if this knowledges  does not need me in this moment. Because I am only human after all...
+May be here I need write about my theory skills but I am like a young student read and forget, if this knowledges  does not need me in this moment. __Because I am only human after all...__
+
+And little bit about my hobby: I like play football and make a tourist trip
