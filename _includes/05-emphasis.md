@@ -10,7 +10,7 @@
 
 - **mongodb** - I use this database on work with e-commerce catalog, because every product has  unique count and values of properties and it is quite useful to introduce they like a document. I studied two cources on mongodby academy and got two certificates: [M101P MongoDB for Developers](https://university.mongodb.com/course_completion/2a32ff33808a4daf8dd26d0be16f0e6d), [M201: MongoDB Performance](https://university.mongodb.com/course_completion/2a32ff33808a4daf8dd26d0be16f0e6d)
 
-- **nodejs** I have some experience broadcasting message from Laravel through socket.io library to client. I studied node js courses on site Udemy, but i didn't write any production  application.
+- **nodejs** I have some experience broadcasting message from Laravel through socket.io library to client. I was studied node js courses on site Udemy and have got the [certificate](https://www.udemy.com/certificate/UC-PIILQ1LG/) by the course..
 
 May be here I need write about my theory skills but I am like a young student read and forget, if this knowledges  does not need me in this moment. __Because I am only human after all...__
 
